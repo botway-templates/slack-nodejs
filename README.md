@@ -1,6 +1,6 @@
-# Botway Discord Nodejs Bot Template
+# Botway Slack Nodejs Bot Template
 
-> This is a template for a Discord Nodejs bot.
+> This is a template for a Slack Nodejs bot.
 
 ## Tools
 
