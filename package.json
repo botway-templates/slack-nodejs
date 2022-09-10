@@ -1,0 +1,12 @@
+{
+  "name": "{{.BotName}}",
+  "version": "0.1.0",
+  "main": "src/main.js",
+  "dependencies": {
+    "@slack/bolt": "^3.12.1",
+    "botway.js": "^0.0.5"
+  },
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  }
+}
