@@ -4,7 +4,7 @@ const botway = require("botway.js");
 const app = new App({
   socketMode: true,
   token: botway.GetToken(),
-  signingSecret: botway.GetSigningSecret(),
+  signingSecret: botway.GetSecret(),
   appToken: botway.GetAppId(),
   logLevel: LogLevel.DEBUG,
 });
